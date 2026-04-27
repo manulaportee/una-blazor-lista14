@@ -84,10 +84,7 @@ ou a porta exibida no terminal.
 Adicione abaixo um printscreen da aplicação funcionando:
 
 ```md
-![Screenshot da aplicação](./img/screenshot.png)
-```
-
-> Crie uma pasta chamada `img` no projeto e coloque sua imagem dentro dela.
+![Screenshot da aplicação](https://github.com/manulaportee/una-blazor-lista14/blob/main/screenshot.png)
 
 ---
 
@@ -114,8 +111,7 @@ Além disso:
 una-blazor-lista14/
 │
 ├── MeuCurriculo/
-├── img/
-│   └── screenshot.png
+├── screenshot.png
 ├── README.md
 ```
 
