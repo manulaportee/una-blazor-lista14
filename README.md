@@ -84,7 +84,7 @@ ou a porta exibida no terminal.
 Adicione abaixo um printscreen da aplicação funcionando:
 
 ```md
-![Screenshot da aplicação](https://github.com/manulaportee/una-blazor-lista14/blob/main/screenshot.png)
+![Screenshot da aplicação](./screenshot.png)
 
 ---
 
