@@ -84,7 +84,7 @@ ou a porta exibida no terminal.
 Adicione abaixo um printscreen da aplicação funcionando:
 
 ```md
-![Screenshot da aplicação](./screenshot.png)
+![Screenshot da aplicação](https://github.com/manulaportee/una-handson5-algprog/blob/main/screenshot.png)
 
 ---
 
